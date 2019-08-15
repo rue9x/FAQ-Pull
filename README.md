@@ -1,6 +1,6 @@
 # FAQ-Pull #
 
-Syntax: python3 [console] [game]
+Syntax: python3 FAQ-pull.py [console] [game]
 
 
 What is does:
