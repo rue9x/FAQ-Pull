@@ -19,7 +19,5 @@ This was designed for Windows usage, but it would likely also work in CentOS or 
 Goals:
 I do this kind of work for a living and I felt like making something like this at home on my off-day for fun. Eventually I might make this into a mobile app or add HTML support, speed it up, or add some stability, but for now I'm happy with it. If you enjoy it, send me a "thanks".
 
-- Rue
-rue dot lazzaro AT gee mail dot com
-
-
+- (C) 2019 Rue Lazzaro
+(rue dot lazzaro AT gee mail dot com)
